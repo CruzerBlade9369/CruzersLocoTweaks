@@ -1,7 +1,7 @@
 # Cruzer's Loco Tweaks
 A collection of cosmetic modifications to locomotives (and cars).
 
-Current modifications
+**Current modifications**
 S282:
 - Square cab windows
 - Smoke deflectors (witte, wagner)
