@@ -17,7 +17,7 @@ MonoBehaviour:
   Author: Cruzer
   Version: 1.0.0
   HomePage: 
-  Repository: 
+  Repository: https://raw.githubusercontent.com/CruzerBlade9369/CruzersLocoTweaks/main/repository.json
   AdditionalRequirements:
   - LocoMeshSplitter
   PackConfigs:
