@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 377294946, guid: b6e5ff4f80d0a724dbfb41cb3875a6bf, type: 3}
+  m_Name: FireboxBelpaire
+  m_EditorClassIdentifier: 
+  ModificationId: FireboxBelpaire
+  ModificationName:
+    Items:
+    - Language: 0
+      Value: Firebox (Belpaire top)
+  IncompatibleModifications:
+  - FireboxWide
+  - FireboxBoth
+  _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
+    \"Firebox (Belpaire top)\"\r\n    }\r\n  ]\r\n}"
+  BodyPrefab: {fileID: 713782840587282236, guid: 51f3e6c8695ed1e48996efca21f5af2d,
+    type: 3}
+  HideOriginalBody: 0
+  PreventBodyHiding: 0
+  CollisionCollider: {fileID: 0}
+  WalkableCollider: {fileID: 4898939626441984691, guid: 4fd549fc88116f04db800f741c884967,
+    type: 3}
+  ItemsCollider: {fileID: 9173257617657353026, guid: 5cc457b9fff40124880248c35cf31ac6,
+    type: 3}
+  InteriorPrefab: {fileID: 0}
+  InteriorPrefabExploded: {fileID: 0}
+  HideOriginalInterior: 0
+  PreventInteriorHiding: 0
+  InteriorLODPrefab: {fileID: 0}
+  HideOriginalInteriorLOD: 0
+  PreventInteriorLODHiding: 0
+  LeftWindow: {fileID: 0}
+  RightWindow: {fileID: 0}
+  LeftWindowExploded: {fileID: 0}
+  RightWindowExploded: {fileID: 0}
+  HideOriginalWindows: 0
+  ToolboxLid: {fileID: 0}
+  ToolboxLidExploded: {fileID: 0}
+  HideOriginalToolboxLid: 0
+  UseCustomHeadlights: 0
+  Mesh: {fileID: 0}
+  BeamPosition: {x: -0.00146591, y: 3.579122, z: 10.98136}
+  _resetHeadlight: 0

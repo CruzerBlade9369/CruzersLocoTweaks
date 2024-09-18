@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 377294946, guid: b6e5ff4f80d0a724dbfb41cb3875a6bf, type: 3}
+  m_Name: SmokeDeflectorWitte
+  m_EditorClassIdentifier: 
+  ModificationId: SmokeDeflectorWitte
+  ModificationName:
+    Items:
+    - Language: 0
+      Value: Smoke Deflectors (Witte)
+  IncompatibleModifications:
+  - SmokeDeflectorWagner
+  _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
+    \"Smoke Deflectors (Witte)\"\r\n    }\r\n  ]\r\n}"
+  BodyPrefab: {fileID: 3955746631040741074, guid: cfc4db77324be7a409c8a1ef7b9464ed,
+    type: 3}
+  HideOriginalBody: 0
+  PreventBodyHiding: 0
+  CollisionCollider: {fileID: 0}
+  WalkableCollider: {fileID: 2902805620380203975, guid: c605de0e7e35edf418eb220eb7649713,
+    type: 3}
+  ItemsCollider: {fileID: 5440639595171985253, guid: f2420587f64255141acd6d7ac6e69cb7,
+    type: 3}
+  InteriorPrefab: {fileID: 0}
+  InteriorPrefabExploded: {fileID: 0}
+  HideOriginalInterior: 0
+  PreventInteriorHiding: 0
+  InteriorLODPrefab: {fileID: 0}
+  HideOriginalInteriorLOD: 0
+  PreventInteriorLODHiding: 0
+  LeftWindow: {fileID: 0}
+  RightWindow: {fileID: 0}
+  LeftWindowExploded: {fileID: 0}
+  RightWindowExploded: {fileID: 0}
+  HideOriginalWindows: 0
+  ToolboxLid: {fileID: 0}
+  ToolboxLidExploded: {fileID: 0}
+  HideOriginalToolboxLid: 0
+  UseCustomHeadlights: 0
+  Mesh: {fileID: 0}
+  BeamPosition: {x: -0.00146591, y: 3.579122, z: 10.98136}
+  _resetHeadlight: 0

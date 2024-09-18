@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1651708505, guid: b6e5ff4f80d0a724dbfb41cb3875a6bf, type: 3}
+  m_Name: EuroTender
+  m_EditorClassIdentifier: 
+  ModificationId: EuroTender
+  ModificationName:
+    Items:
+    - Language: 0
+      Value: Euro Tender
+  IncompatibleModifications: []
+  _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
+    \"Euro Tender\"\r\n    }\r\n  ]\r\n}"
+  BodyPrefab: {fileID: 837286417618519816, guid: 085c774db64b5e442bb428b3ed81a7c2,
+    type: 3}
+  HideOriginalBody: 1
+  PreventBodyHiding: 0
+  CollisionCollider: {fileID: 0}
+  WalkableCollider: {fileID: 0}
+  ItemsCollider: {fileID: 0}
+  UseCustomBogies: 0
+  WheelRadius: 0.459
+  FrontBogie: {fileID: 0}
+  RearBogie: {fileID: 0}
+  ResetBogiesToDefaultButton: 0
+  WaterHatch: {fileID: 0}
+  HideOriginalHatch: 0
+  Water: {fileID: 0}
+  HideOriginalWater: 0
+  ReplaceCoal: 1
+  CoalModels:
+  - {fileID: 6050807814928977556, guid: b0974c3ff06db0f4ead0399bbe839645, type: 3}
+  - {fileID: 1844902782620142730, guid: 99324fb69e153854d9bdcf20ef68a136, type: 3}
+  - {fileID: 6650608243896184850, guid: 4e311498918661146b4c8c194a8c5216, type: 3}
+  - {fileID: 2190029573143767247, guid: 93560fa99235ac642b01aab6d71cea6b, type: 3}
+  - {fileID: 280049524873336656, guid: 385982b414f8c9e4a81c73b66555d574, type: 3}
+  SwitchPercentage:
+  - 0.2
+  - 0.4
+  - 0.6
+  - 0.8
+  UseCustomHeadlights: 0
+  Mesh: {fileID: 0}
+  BeamPosition: {x: 0.0024, y: 3.2164, z: -7.9304}
+  _resetHeadlight: 0

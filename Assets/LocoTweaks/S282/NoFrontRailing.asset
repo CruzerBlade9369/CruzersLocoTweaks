@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 377294946, guid: b6e5ff4f80d0a724dbfb41cb3875a6bf, type: 3}
+  m_Name: NoFrontRailing
+  m_EditorClassIdentifier: 
+  ModificationId: NoFrontRailing
+  ModificationName:
+    Items:
+    - Language: 0
+      Value: Hide Front Railings
+  IncompatibleModifications: []
+  _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
+    \"Hide Front Railings\"\r\n    }\r\n  ]\r\n}"
+  BodyPrefab: {fileID: 9090073005907406928, guid: 144f83479061bf44daf23d473ddff7ac,
+    type: 3}
+  HideOriginalBody: 0
+  PreventBodyHiding: 0
+  CollisionCollider: {fileID: 0}
+  WalkableCollider: {fileID: 8588891316134508059, guid: d605590db588d6f4697352a79f944c85,
+    type: 3}
+  ItemsCollider: {fileID: 7540920281084360051, guid: 19a8968aff421c647886d2fe506ead22,
+    type: 3}
+  InteriorPrefab: {fileID: 0}
+  InteriorPrefabExploded: {fileID: 0}
+  HideOriginalInterior: 0
+  PreventInteriorHiding: 0
+  InteriorLODPrefab: {fileID: 0}
+  HideOriginalInteriorLOD: 0
+  PreventInteriorLODHiding: 0
+  LeftWindow: {fileID: 0}
+  RightWindow: {fileID: 0}
+  LeftWindowExploded: {fileID: 0}
+  RightWindowExploded: {fileID: 0}
+  HideOriginalWindows: 0
+  ToolboxLid: {fileID: 0}
+  ToolboxLidExploded: {fileID: 0}
+  HideOriginalToolboxLid: 0
+  UseCustomHeadlights: 0
+  Mesh: {fileID: 0}
+  BeamPosition: {x: -0.00146591, y: 3.579122, z: 10.98136}
+  _resetHeadlight: 0

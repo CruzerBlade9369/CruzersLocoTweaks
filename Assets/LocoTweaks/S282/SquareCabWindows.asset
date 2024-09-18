@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 377294946, guid: b6e5ff4f80d0a724dbfb41cb3875a6bf, type: 3}
+  m_Name: SquareCabWindows
+  m_EditorClassIdentifier: 
+  ModificationId: SquareCabWindows
+  ModificationName:
+    Items:
+    - Language: 0
+      Value: Square Cab Windows
+  IncompatibleModifications: []
+  _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
+    \"Square Cab Windows\"\r\n    }\r\n  ]\r\n}"
+  BodyPrefab: {fileID: 6828357240549934732, guid: d8dc20103ef984244afffd59306857bf,
+    type: 3}
+  HideOriginalBody: 0
+  PreventBodyHiding: 0
+  CollisionCollider: {fileID: 0}
+  WalkableCollider: {fileID: 0}
+  ItemsCollider: {fileID: 1835036773088813121, guid: 5de5f19273a951b4498b20f53f48bfba,
+    type: 3}
+  InteriorPrefab: {fileID: 2514548303132667010, guid: d91e63efa5f1691458d8fc136f55f9a5,
+    type: 3}
+  InteriorPrefabExploded: {fileID: 1817371214978036866, guid: a0a9353fae2756e43aee1aed56455c24,
+    type: 3}
+  HideOriginalInterior: 1
+  PreventInteriorHiding: 0
+  InteriorLODPrefab: {fileID: 6917398358759162006, guid: c0ffb866f6f0334488e1317090dc759f,
+    type: 3}
+  HideOriginalInteriorLOD: 1
+  PreventInteriorLODHiding: 0
+  LeftWindow: {fileID: 5261861620766639604, guid: 31dff29dba3c34246962b43f163ad67d,
+    type: 3}
+  RightWindow: {fileID: 9139744262198051754, guid: 4e968c92857ef3d40b17bc5cfd8fa1fe,
+    type: 3}
+  LeftWindowExploded: {fileID: 2732912160690302043, guid: a98c313fd4b12bf499d2c71aba854eda,
+    type: 3}
+  RightWindowExploded: {fileID: 7005660626859943692, guid: 466e5a906d5be9c49af664e9c65f8515,
+    type: 3}
+  HideOriginalWindows: 1
+  ToolboxLid: {fileID: 0}
+  ToolboxLidExploded: {fileID: 0}
+  HideOriginalToolboxLid: 0
+  UseCustomHeadlights: 0
+  Mesh: {fileID: 0}
+  BeamPosition: {x: -0.00146591, y: 3.579122, z: 10.98136}
+  _resetHeadlight: 0
