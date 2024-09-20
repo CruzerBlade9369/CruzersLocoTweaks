@@ -1,8 +1,7 @@
 # Cruzer's Loco Tweaks
-A collection of cosmetic modifications to locomotives (and cars).
+A collection of cosmetic modifications to locomotives.
 
-**Current modifications**
-
+**Current modifications:**
 S282:
 - Square cab windows
 - Smoke deflectors (witte, wagner)
@@ -13,6 +12,5 @@ S282:
 - Alternative firebox designs (wide, belpaire, wide belpaire)
 - Cat ears
 - "Bunny ears"
-
 DM3:
 - Cowcatchers and sideplates
