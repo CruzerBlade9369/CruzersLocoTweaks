@@ -1,5 +1,5 @@
 # Cruzer's Loco Tweaks
-A collection of cosmetic modifications to locomotives.
+A collection of cosmetic modifications to locomotives. Each modifications are modular and can be activated individually.
 
 **Current modifications:**
 
