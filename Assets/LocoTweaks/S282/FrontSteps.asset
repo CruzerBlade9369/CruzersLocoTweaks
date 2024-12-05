@@ -17,7 +17,9 @@ MonoBehaviour:
     Items:
     - Language: 0
       Value: Front Pilot Steps
-  IncompatibleModifications: []
+  IncompatibleModifications:
+  - PilotAlt2
+  - PilotAlt3
   _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
     \"Front Pilot Steps\"\r\n    }\r\n  ]\r\n}"
   BodyPrefab: {fileID: 7293541261347756275, guid: f209fba4b8aa15e498459f81046efbca,
@@ -26,7 +28,8 @@ MonoBehaviour:
   PreventBodyHiding: 0
   CollisionCollider: {fileID: 0}
   WalkableCollider: {fileID: 0}
-  ItemsCollider: {fileID: 0}
+  ItemsCollider: {fileID: 273307951770673308, guid: a5ec79cfcc88d754bb2ba75f4b3c848c,
+    type: 3}
   InteriorPrefab: {fileID: 0}
   InteriorPrefabExploded: {fileID: 0}
   HideOriginalInterior: 0

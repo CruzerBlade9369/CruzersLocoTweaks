@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 377294946, guid: b6e5ff4f80d0a724dbfb41cb3875a6bf, type: 3}
+  m_Name: PilotAlt3
+  m_EditorClassIdentifier: 
+  ModificationId: PilotAlt3
+  ModificationName:
+    Items:
+    - Language: 0
+      Value: Pilot (Alternate 3)
+  IncompatibleModifications:
+  - PilotAlt1
+  - PilotAlt2
+  - FrontSteps
+  _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
+    \"Pilot (Alternate 3)\"\r\n    }\r\n  ]\r\n}"
+  BodyPrefab: {fileID: 1665426923235628512, guid: 445858df38458754d8bda1fd8fec4e00,
+    type: 3}
+  HideOriginalBody: 0
+  PreventBodyHiding: 0
+  CollisionCollider: {fileID: 2796928111284291801, guid: 622e0669da210844795f0f9342526f7d,
+    type: 3}
+  WalkableCollider: {fileID: 835351398135426835, guid: 4a8fb17d0d73edd4f86acbc36e556d8e,
+    type: 3}
+  ItemsCollider: {fileID: 8287116472464531443, guid: 24911fc612ac8094bb5cfdcdade60570,
+    type: 3}
+  InteriorPrefab: {fileID: 0}
+  InteriorPrefabExploded: {fileID: 0}
+  HideOriginalInterior: 0
+  PreventInteriorHiding: 0
+  InteriorLODPrefab: {fileID: 0}
+  HideOriginalInteriorLOD: 0
+  PreventInteriorLODHiding: 0
+  LeftWindow: {fileID: 0}
+  RightWindow: {fileID: 0}
+  LeftWindowExploded: {fileID: 0}
+  RightWindowExploded: {fileID: 0}
+  HideOriginalWindows: 0
+  ToolboxLid: {fileID: 0}
+  ToolboxLidExploded: {fileID: 0}
+  HideOriginalToolboxLid: 0
+  UseCustomHeadlights: 0
+  Mesh: {fileID: 0}
+  BeamPosition: {x: -0.00146591, y: 3.579122, z: 10.98136}
+  _resetHeadlight: 0

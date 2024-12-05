@@ -20,13 +20,16 @@ MonoBehaviour:
   IncompatibleModifications: []
   _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
     \"Euro Tender\"\r\n    }\r\n  ]\r\n}"
-  BodyPrefab: {fileID: 837286417618519816, guid: 085c774db64b5e442bb428b3ed81a7c2,
+  BodyPrefab: {fileID: 4903935958350197922, guid: b8d024f25c0093b4ebfe40989f04b842,
     type: 3}
   HideOriginalBody: 1
-  PreventBodyHiding: 0
-  CollisionCollider: {fileID: 0}
-  WalkableCollider: {fileID: 0}
-  ItemsCollider: {fileID: 0}
+  PreventBodyHiding: 1
+  CollisionCollider: {fileID: 4684084514827984639, guid: eb0b6bfbea7771944b11dd2ce0048cf2,
+    type: 3}
+  WalkableCollider: {fileID: 1650053594112412964, guid: c7602adf2c83337468b209c81494b6af,
+    type: 3}
+  ItemsCollider: {fileID: 6406753285899697035, guid: abfca00d198724f41a91d448c2aa7e39,
+    type: 3}
   UseCustomBogies: 0
   WheelRadius: 0.459
   FrontBogie: {fileID: 0}
@@ -34,20 +37,31 @@ MonoBehaviour:
   ResetBogiesToDefaultButton: 0
   WaterHatch: {fileID: 0}
   HideOriginalHatch: 0
+  WaterAreaColliders: {fileID: 0}
   Water: {fileID: 0}
   HideOriginalWater: 0
   ReplaceCoal: 1
   CoalModels:
-  - {fileID: 6050807814928977556, guid: b0974c3ff06db0f4ead0399bbe839645, type: 3}
-  - {fileID: 1844902782620142730, guid: 99324fb69e153854d9bdcf20ef68a136, type: 3}
-  - {fileID: 6650608243896184850, guid: 4e311498918661146b4c8c194a8c5216, type: 3}
-  - {fileID: 2190029573143767247, guid: 93560fa99235ac642b01aab6d71cea6b, type: 3}
-  - {fileID: 280049524873336656, guid: 385982b414f8c9e4a81c73b66555d574, type: 3}
+  - {fileID: 7023105770809709454, guid: 00ad6e8cc769d324eb5409f1a5927b07, type: 3}
+  - {fileID: 6559590276513321739, guid: 6ef8909302959a5498057c6da58d6dbb, type: 3}
+  - {fileID: 8117493302739593818, guid: 11d3429595d01fa46b34beefda5d1abf, type: 3}
+  - {fileID: 1296913495296378913, guid: bbf7e5a11aea3684b93c4cb6da9acf28, type: 3}
+  - {fileID: 6316056395041861243, guid: ae89ca3e0be23cd4d81d801b9fcf8f69, type: 3}
+  - {fileID: 6589227752662315799, guid: 9af5337d927fac84eac2d01b1b97b83d, type: 3}
+  - {fileID: 2665617221972034219, guid: dd8a81c78157d43469fe0601c901417c, type: 3}
+  - {fileID: 8057255573101581441, guid: 03f7129cd4534bf4fa54a94905ea63bb, type: 3}
+  - {fileID: 842941525523698571, guid: a6f5851e19223844cb9ac6e720f075d7, type: 3}
   SwitchPercentage:
-  - 0.2
-  - 0.4
-  - 0.6
-  - 0.8
+  - 0.11
+  - 0.23
+  - 0.34
+  - 0.45
+  - 0.56
+  - 0.67
+  - 0.78
+  - 0.89
+  CoalAreaColliders: {fileID: 8207451836547790028, guid: 027ddcf16e3a76443966d3e3291998d9,
+    type: 3}
   UseCustomHeadlights: 0
   Mesh: {fileID: 0}
   BeamPosition: {x: 0.0024, y: 3.2164, z: -7.9304}

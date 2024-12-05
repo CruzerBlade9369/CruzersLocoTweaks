@@ -17,7 +17,9 @@ MonoBehaviour:
     Items:
     - Language: 0
       Value: Pilot (Alternate 1)
-  IncompatibleModifications: []
+  IncompatibleModifications:
+  - PilotAlt2
+  - PilotAlt3
   _jsonName: "{\r\n  \"Items\": [\r\n    {\r\n      \"Language\": 0,\r\n      \"Value\":
     \"Pilot (Alternate 1)\"\r\n    }\r\n  ]\r\n}"
   BodyPrefab: {fileID: 238186189317746375, guid: f4ff0a1977ea9c14cab5504845dd4869,

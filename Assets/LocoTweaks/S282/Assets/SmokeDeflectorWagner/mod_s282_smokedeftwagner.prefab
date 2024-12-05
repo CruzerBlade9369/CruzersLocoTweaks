@@ -112,6 +112,7 @@ MonoBehaviour:
   Material: {fileID: 0}
   DefaultMaterial: 500
   MaterialObjectPath: 
+  FromInterior: 0
   GenerateExplodedMaterialProcedurally: 0
   AffectedGameObjects:
   - {fileID: 2177656241557905239}

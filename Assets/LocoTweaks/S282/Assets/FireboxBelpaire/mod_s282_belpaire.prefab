@@ -53,6 +53,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   TransformPaths:
   - LocoS282A_Body/Static_LOD0/s282a_split_body(Clone)/s282a_body
+  - LocoS282A_Body/Static_LOD1/s282a_split_body_LOD1(Clone)/s282a_body
 --- !u!114 &1069244022034977992
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -68,6 +69,7 @@ MonoBehaviour:
   Material: {fileID: 0}
   DefaultMaterial: 500
   MaterialObjectPath: 
+  FromInterior: 0
   GenerateExplodedMaterialProcedurally: 0
   AffectedGameObjects:
   - {fileID: 739224488435652146}

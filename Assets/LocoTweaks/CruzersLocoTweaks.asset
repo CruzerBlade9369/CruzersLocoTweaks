@@ -15,7 +15,7 @@ MonoBehaviour:
   ModId: CruzLocoTweaks
   ModName: Cruzer's Loco Tweaks
   Author: Cruzer
-  Version: 1.0.0
+  Version: 1.1.0
   HomePage: 
   Repository: https://raw.githubusercontent.com/CruzerBlade9369/CruzersLocoTweaks/main/repository.json
   AdditionalRequirements:
@@ -29,8 +29,14 @@ MonoBehaviour:
   - {fileID: 11400000, guid: bc30478f1cec69c40aa9538161363385, type: 2}
   - {fileID: 11400000, guid: 19f2302f9f7b7e247ae1726886a613f2, type: 2}
   - {fileID: 11400000, guid: c5a969651c268b64dbe6d12caf377e9a, type: 2}
+  - {fileID: 11400000, guid: 17f371d624ad7d3419920e13959696df, type: 2}
+  - {fileID: 11400000, guid: 33c4b8b5909d6e2419c618c37e32c3e3, type: 2}
   - {fileID: 11400000, guid: c9680751941793b4293dcbfb20a3646b, type: 2}
   - {fileID: 11400000, guid: 82c1ac53a0749a549adb11261a38f24d, type: 2}
   - {fileID: 11400000, guid: aa31a797fef7f9b40a2e8fa049bf0a54, type: 2}
   - {fileID: 11400000, guid: 9f7c491a7036bc24ab31e4fdac279558, type: 2}
+  - {fileID: 11400000, guid: 89058161296a41d4cb41b817dbc86ce1, type: 2}
   - {fileID: 11400000, guid: 12883de9a5d88614c92267cc79fa3e7a, type: 2}
+  - {fileID: 11400000, guid: abf8feada30fbac4199807b3c0c3e7bc, type: 2}
+  - {fileID: 11400000, guid: 086a984a46e80694cab86cfd1fc77b70, type: 2}
+  - {fileID: 11400000, guid: 46c8e8b73903a6647ac16aae4ce1406f, type: 2}

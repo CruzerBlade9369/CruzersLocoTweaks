@@ -6,13 +6,18 @@ A collection of cosmetic modifications to locomotives. Each modifications are mo
 S282:
 - Square cab windows
 - Smoke deflectors (witte, wagner)
-- Alternative pilot design (No cowcatchers)
 - Removed front railings
 - Short funnel
 - Pilot front steps
+- Alternative pilot designs (no cowcatchers, high platform, high platform w/o cowcatchers)
 - Alternative firebox designs (wide, belpaire, wide belpaire)
+- Alternative smokebox door designs (euro vintage, euro modern)
 - Cat ears
 - "Bunny ears"
+- Euro-style tender
 
 DM3:
 - Cowcatchers and sideplates
+
+## Asset Credits
+Lilla (whycofie @ Discord) - Models for smokebox doors
