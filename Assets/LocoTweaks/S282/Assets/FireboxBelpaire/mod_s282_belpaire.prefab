@@ -52,7 +52,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TransformPaths:
+  - LocoS282A_Body/Static_LOD0/s282a_split_body(Clone)/s282a_running_boards
   - LocoS282A_Body/Static_LOD0/s282a_split_body(Clone)/s282a_body
+  - LocoS282A_Body/Static_LOD1/s282a_split_body_LOD1(Clone)/s282a_running_boards
   - LocoS282A_Body/Static_LOD1/s282a_split_body_LOD1(Clone)/s282a_body
 --- !u!114 &1069244022034977992
 MonoBehaviour:
