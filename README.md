@@ -14,6 +14,7 @@ S282:
 - Alternative smokebox door designs (euro vintage, euro modern)
 - Cat ears
 - "Bunny ears"
+- Slanted smokebox seat
 - Euro-style tender
 
 DM3:
